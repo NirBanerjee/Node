@@ -1,0 +1,3 @@
+What is NodeJS ?
+
+Javascript run time. Provided the first non browser environment for Javascript.
